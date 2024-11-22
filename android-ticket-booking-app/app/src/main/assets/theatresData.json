@@ -1,0 +1,121 @@
+[
+  {
+    "name": "PVR Cinemas",
+    "location": "Tirunelveli",
+    "totalSeats": 20,
+    "availableSeats": 20,
+    "stared": 1
+  },
+  {
+    "name": "Phoenix Mall",
+    "location": "Madurai",
+    "totalSeats": 35,
+    "availableSeats": 35,
+    "stared": 0
+  },
+  {
+    "name": "PVR Plasa",
+    "location": "Coimbatore",
+    "totalSeats": 15,
+    "availableSeats": 15,
+    "stared": 1
+  },
+  {
+    "name": "Fun Cinemas",
+    "location": "Kochin",
+    "totalSeats": 40,
+    "availableSeats": 40,
+    "stared": 0
+  },
+  {
+    "name": "Lulu Cinemas",
+    "location": "Mumbai",
+    "totalSeats": 30,
+    "availableSeats": 30,
+    "stared": 0
+  },
+  {
+    "name": "Rainbow Dolby",
+    "location": "Kolkata",
+    "totalSeats": 25,
+    "availableSeats": 25,
+    "stared": 1
+  },
+  {
+    "name": "Star Cinemas",
+    "location": "Bangalore",
+    "totalSeats": 10,
+    "availableSeats": 10,
+    "stared": 0
+  },
+  {
+    "name": "Alangar Cinemas",
+    "location": "Erode",
+    "totalSeats": 35,
+    "availableSeats": 35,
+    "stared": 1
+  },
+  {
+    "name": "Muthuram Cinemas",
+    "location": "Erode",
+    "totalSeats": 35,
+    "availableSeats": 35,
+    "stared": 0
+  },
+  {
+    "name": "Shree Rathna Cinemas",
+    "location": "Pondichery",
+    "totalSeats": 35,
+    "availableSeats": 35,
+    "stared": 1
+  },
+  {
+  "name": "Senthilvel Cinemas",
+  "location": "Hyderabad",
+  "totalSeats": 35,
+  "availableSeats": 35,
+  "stared": 1
+  },
+  {
+  "name": "Multiplex Dolby Atmos",
+  "location": "Mumbai",
+  "totalSeats": 35,
+  "availableSeats": 35,
+  "stared": 0
+  },
+  {
+    "name": "APA Cinemas",
+    "location": "Tirupur",
+    "totalSeats": 35,
+    "availableSeats": 35,
+    "stared": 0
+  },
+  {
+    "name": "Cinepolis DSL Mall",
+    "location": "Trivandrum",
+    "totalSeats": 35,
+    "availableSeats": 35,
+    "stared": 0
+  },
+  {
+    "name": "Mantra Mall",
+    "location": "Visakhapatnam",
+    "totalSeats": 35,
+    "availableSeats": 35,
+    "stared": 1
+  },
+  {
+    "name": "Inox GSM Mall",
+    "location": "Delhi",
+    "totalSeats": 35,
+    "availableSeats": 35,
+    "stared": 0
+  },
+  {
+    "name": "Super 70 MM",
+    "location": "Coimbatore",
+    "totalSeats": 35,
+    "availableSeats": 35,
+    "stared": 1
+  }
+]
